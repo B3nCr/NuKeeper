@@ -2,7 +2,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <LangVersion>latest</LangVersion>
+    <LangVersion>8</LangVersion>
+    <NullableReferenceTypes>true</NullableReferenceTypes>
     <VersionPrefix>0.10.2</VersionPrefix>
     <PackageVersion>$(VersionPrefix)</PackageVersion>
     <Copyright>Copyright (c) NuKeeper 2017-$([System.DateTime]::Now.ToString(yyyy))</Copyright>
