@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <LangVersion>8</LangVersion>
+    <LangVersion>8.0</LangVersion>
     <NullableReferenceTypes>true</NullableReferenceTypes>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <VersionPrefix>0.10.2</VersionPrefix>
