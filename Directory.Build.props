@@ -4,6 +4,7 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <LangVersion>8</LangVersion>
     <NullableReferenceTypes>true</NullableReferenceTypes>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <VersionPrefix>0.10.2</VersionPrefix>
     <PackageVersion>$(VersionPrefix)</PackageVersion>
     <Copyright>Copyright (c) NuKeeper 2017-$([System.DateTime]::Now.ToString(yyyy))</Copyright>
